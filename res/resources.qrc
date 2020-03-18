@@ -1,0 +1,22 @@
+<RCC>
+	<qresource prefix="/shaders">
+		<file alias="default.vert">shaders/default.vert</file>
+		<file alias="default.frag">shaders/default.frag</file>
+	</qresource>
+	<qresource prefix="/fonts">
+		<file alias="Ubuntu-Regular">fonts/Ubuntu/Ubuntu-R.ttf</file>
+		<file alias="Ubuntu-Light">fonts/Ubuntu/Ubuntu-L.ttf</file>
+		<file alias="Ubuntu-Medium">fonts/Ubuntu/Ubuntu-M.ttf</file>
+		<file alias="Ubuntu-Mono">fonts/Ubuntu/UbuntuMono-R.ttf</file>
+	</qresource>
+	<qresource prefix="/icons">
+		<file alias="bookmarks">icons/bookmarks.svg</file>
+		<file alias="edit-attributes">icons/edit-attributes.svg</file>
+		<file alias="games">icons/games.svg</file>
+		<file alias="list">icons/list.svg</file>
+		<file alias="play">icons/play_arrow.svg</file>
+		<file alias="pause">icons/pause.svg</file>
+		<file alias="replay">icons/replay.svg</file>
+		<file alias="waves">icons/waves.svg</file>
+	</qresource>
+</RCC>

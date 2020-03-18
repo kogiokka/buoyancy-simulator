@@ -1,0 +1,21 @@
+<RCC>
+	<qresource prefix="/">
+		<file>main.qml</file>
+		<file>BlenderStyleInputHandler.qml</file>
+		<file>CameraComponent.qml</file>
+		<file>EngineComponent.qml</file>
+		<file>Panels.qml</file>
+		<file>LiquidPropPanel.qml</file>
+		<file>ObjectListPanel.qml</file>
+		<file>ObjectPropPanel.qml</file>
+		<file>PanelButton.qml</file>
+		<file>PanelButtonList.qml</file>
+		<file>ScalarInput.qml</file>
+		<file>SimulationButtons.qml</file>
+		<file>SimulationPanel.qml</file>
+		<file>StyledButton.qml</file>
+		<file>Vector3Input.qml</file>
+		<file>Vector4Input.qml</file>
+		<file>LabelWithLine.qml</file>
+	</qresource>
+</RCC>
